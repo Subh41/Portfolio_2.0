@@ -104,7 +104,7 @@ const PROJECTS = [
     tags: ["React", "Node.js", "MySQL", "JWT", "AI/ML", "REST API"],
     color: "from-violet-600 to-indigo-600",
     icon: "🧠",
-    github: "https://github.com/Subh41",
+    github: "https://github.com/Subh41/DemiSense.AI",
     highlight: "Published at ICDCIT 2026 – KIIT University",
   },
   {
