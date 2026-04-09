@@ -549,8 +549,8 @@ function HeroSection() {
           </motion.h1>
           <div className="text-2xl md:text-3xl font-semibold text-gray-300 mb-6 h-10">
             <TypewriterText texts={[
+              "Software Developer",
               "Full Stack Developer",
-              "MERN Stack Engineer",
               "AI/ML Enthusiast",
               "Cybersecurity Analyst",
               "Problem Solver",
@@ -584,7 +584,7 @@ function HeroSection() {
             GitHub
           </motion.a>
           <motion.a
-            href="https://linkedin.com/in/subhojit-das"
+            href="https://www.linkedin.com/in/subhojit-das-1896a0288/"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-3 rounded-full glass border border-indigo-500/30 text-white font-semibold flex items-center gap-2"
@@ -629,8 +629,8 @@ function HeroSection() {
 function AboutSection() {
   const stats = [
     { label: "CGPA", value: "8.0/10", icon: "🎓" },
-    { label: "Projects", value: "8+", icon: "🚀" },
-    { label: "Experience", value: "5+", icon: "💼" },
+    { label: "Projects", value: "12+", icon: "🚀" },
+    { label: "Experience", value: "6+", icon: "💼" },
     { label: "Certifications", value: "9+", icon: "📜" },
   ];
 
